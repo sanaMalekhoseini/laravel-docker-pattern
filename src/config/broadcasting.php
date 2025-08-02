@@ -50,7 +50,10 @@ return [
             'driver' => 'redis',
             'connection' => 'default',
         ],
-
+        'options' => [
+            'cluster' => 'ap1',
+            'useTLS' => true
+        ],
         'log' => [
             'driver' => 'log',
         ],
