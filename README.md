@@ -9,6 +9,18 @@ Setting up Laravel in the local environment with Docker using the LEMP stack tha
 - [x] You can use different versions of the same programming language.
 - [x] Deployment is easy
 
+- [ ] 
+learning-journal/
+├── docker/
+│   └── compose-commands.md
+├── git/
+│   ├── gitflow.md
+│   └── multiple-remotes.md
+├── laravel/
+│   ├── swagger-setup.md
+│   └── artisan-commands.md
+README.md
+
 ## How to Install and Run the Project
 
 1. ``` git clone https://github.com/sanaMalekhoseini/laravel-docker-pattern.git ```
